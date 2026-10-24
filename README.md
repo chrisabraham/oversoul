@@ -8,6 +8,8 @@ You probably work with more than one AI: Claude in one window, Claude Code in a 
 
 This is a framework, not a product: a way for several AIs to collaborate on one body of knowledge. It ships about 80% finished. The rules, templates, prompts, and lessons are here. The folders are empty, and the last 20% is yours: your name, your agents, your fields, your use. Think of it as an empty house, or a sourdough starter. `docs/adapting.md` has ideas for finishing it.
 
+I built this for myself first—one shared memory for the crew of AI agents I work with every day—then stripped out everything personal to me. What is left is yours to clone and use, or to study as a source for your own fork.
+
 ## Why "oversoul"
 
 In his 1841 essay "The Over-Soul," Ralph Waldo Emerson described "that Unity, that Over-soul, within which every man's particular being is contained and made one with all other." Each of your agents is a fragment: it sees one conversation, forgets it, and never meets the others. The repo is the one memory they all draw from and all add to. No single agent holds the whole picture, and every agent can read it.
